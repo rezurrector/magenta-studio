@@ -72,3 +72,6 @@ magenta4live.amxd/apps
 *.zip
 TODO.txt
 modelz
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
